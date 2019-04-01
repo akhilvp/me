@@ -1,33 +1,4 @@
-/************ CSS Styles ************
 
-    Template Name: Kalvin - Portfolio Template
-    Author: cosmos-themes
-    version: 1.0
-    Copyright: 2018
-
-************************************/
-/*==================================
-
-        Table of Content
-
-        1. Body and Core Css
-        2. Preloader
-        3. Navbar
-        4. Banner Section
-        5. About Section
-        6. Services Section
-        7. Stats Section
-        8. Portfolio Section
-        9. Blogs Section
-        10. Testimonial Section
-        11. Contact Form Section
-        12. Footer
-        13. Blogs Page
-        14. Single Blog Page
-        15. Mobile Responsive
-
-==================================*/
-/*============ 1. Body and Core Css ============*/
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -1254,3 +1225,25 @@ section.banner-blog {
     height: 80px; }
   section.banner-blog .banner-caption h1 {
     font-size: 32px; } }
+
+.icon2
+{
+      color: #222;
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 80px;
+    height: 80px;
+    line-height: 78px;
+    font-size: 30px;
+    border: 1px solid #e3e3e3;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: .5s all ease;
+    -o-transition: .5s all ease;
+    transition: .5s all ease;
+}
+
+.service-item2
+{
+  text-align: center;
+}
